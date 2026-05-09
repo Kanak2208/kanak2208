@@ -30,7 +30,7 @@ I bring an unusual combination of hands-on operational experience (Amazon, Flori
 ### 🔬 [Vanguard A/B Hypothesis Testing](https://github.com/Kanak2208/Ironhack_second_project)
 End-to-end analysis of a real-world A/B experiment run by Vanguard on their digital onboarding interface. Includes funnel analysis, three formal hypothesis tests (Z-test, T-test, Mann-Whitney U), and an interactive Tableau dashboard.
 
-> **Result:** New UI significantly improves completion rate (+3.71pp, p < 0.05). Error rate at the Confirm step dropped from 37.84% → 11.29%.
+> **Result:** New UI significantly improves completion rate (+3.71%, p < 0.05). Error rate at the Confirm step dropped from 37.84% → 11.29%.
 
 📊 [Live Dashboard](https://public.tableau.com/app/profile/kanak.yadav2046/viz/VanguardDashboard-IronhackProject_17783144758370/VanguardDashboard?publish=yes) · 📽 [Story Presentation](https://public.tableau.com/app/profile/kanak.yadav2046/viz/VanguardPresentation-IronhackProject/VanguardPresentation?publish=yes)
 
@@ -70,9 +70,9 @@ All interactive dashboards are published here:
 
 | Degree | Institution | Year |
 |---|---|---|
-| Data Analytics Bootcamp | Ironhack Berlin | 2025–2026 |
-| M.A. International Management | IU Internationale Hochschule | 2023–2024 |
-| B.Sc. | G.B. Pant University (GBPUAT), Pantnagar | — |
+| Data Analytics Bootcamp | Ironhack Berlin | 2026 |
+| M.A. International Management | IU Internationale Hochschule | 2024 |
+| B.Sc. | G.B. Pant University (GBPUAT), Pantnagar | 2022 |
 
 ---
 
