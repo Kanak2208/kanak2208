@@ -1,4 +1,4 @@
-# Hi, I'm Kanak Yadav 👋
+^_^ # Hi, I'm Kanak Yadav 👋
 
 **Data Analytics | Operations | Berlin, Germany**
 
